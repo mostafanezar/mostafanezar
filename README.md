@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 How to reach me: ... <br>
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> <br>
     👉 Programming languages <br>
-<p align="center">
+<p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="60"/> </a>
     <br>
     👉 IDEs
