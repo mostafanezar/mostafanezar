@@ -1,6 +1,6 @@
 ### Hi there Iam Mostafa Nezar 👋
 <hr>
-<img src="WhatsApp Image 2023-02-16 at 18.33.40.jpg" width ="100px" title="قبل كل شىء دعوني اعبر عن اعتزازي ب قول الله تعالى">
+<img src="WhatsApp Image 2023-02-16 at 18.33.40.jpg" width ="1000px" title="قبل كل شىء دعوني اعبر عن اعتزازي ب قول الله تعالى">
 
 <!--
 **mostafanezar/mostafanezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
