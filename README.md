@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 - I’m a student at: ...<a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Suez Canal University.</a> <br>
 - How to reach me: ... <a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Mostafa Nezar</a> <br>
-- My Instagram: ... <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="10px" width="10px"> </a> <br>
+- My Instagram: ... <a href="https://www.instagram.com/mostafa_nezar_21">Mostafa Nezar </a> <br>
  <hr>
 <p>programmer &#128516; &#128525; </p>
 <hr>
-How to reach me: ...
+How to reach me: ... <br>
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> <br>
