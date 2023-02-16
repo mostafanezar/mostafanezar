@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 <hr>
 How to reach me: ... <br>
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> <br>
+    IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+</p>
