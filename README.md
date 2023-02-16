@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Student at Faculty of Computers & Informatics at Suez Canal University.
 <a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Check your Gmail inbox</a> <br>
 <a href="https://www.instagram.com/mostafa_nezar_21">instagram</a> <br>
