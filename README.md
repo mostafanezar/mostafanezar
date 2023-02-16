@@ -26,6 +26,7 @@ Social links:<br>
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> <br>
 <a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a> <br>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="60"/> </a>
     👉 Programming languages <br>
 <p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="60"/> </a>
@@ -36,5 +37,4 @@ Social links:<br>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
 </p>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="60"/> </a>
 
