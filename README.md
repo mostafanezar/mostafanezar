@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - My Instagram: ... <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="10px" width="10px"> </a> <br>
  <hr>
 <p>programmer &#128516; &#128525; </p>
+<hr>
+How to reach me: ...
+<a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> <br>
