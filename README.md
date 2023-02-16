@@ -1,5 +1,4 @@
 ### Hi there Iam Mostafa Nezar 👋
-<hr>
 <img src="WhatsApp Image 2023-02-16 at 18.33.40.jpg" height="auto" width ="auto" title="قبل كل شىء دعوني اعبر عن اعتزازي ب قول الله تعالى">
 
 <!--
