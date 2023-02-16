@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I’m a student at ...<a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Suez Canal University.</a> <br>
-<a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Check your Gmail inbox</a> <br>
-<a href="https://www.instagram.com/mostafa_nezar_21">instagram</a> <br>
+- My Gmail <a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Mostafa Nezar</a> <br>
+- My Instagram <a href="https://www.instagram.com/mostafa_nezar_21">instagram</a> <br>
