@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m a student at ...<a href="d" target ="_blank">Faculty of Computers & Informatics at Suez Canal University.</a> <br>
+- I’m a student at ...<a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Suez Canal University.</a> <br>
 <a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Check your Gmail inbox</a> <br>
 <a href="https://www.instagram.com/mostafa_nezar_21">instagram</a> <br>
