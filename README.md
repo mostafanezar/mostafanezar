@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a><br>
   &emsp;
  <a href="#"><img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
  
