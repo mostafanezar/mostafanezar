@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
   &emsp;
- <a href="#"><img src="https:://img.shields.io/badge//raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico"/></a>
+ <a href="#"><img src="https://img.shields.io/badge//raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico"/></a>
  
 </p>
 
