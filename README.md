@@ -25,7 +25,7 @@ Social links:<br>
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to reach me</p>
 </a> 
 <a href="https://www.facebook.com/mostafanazar.mostafa.9?mibextid=LQQJ4d" target="blank"><img src="Facebook_f_logo_(2021).svg.png" alt="" height="70" width="60" /></a> 
-<a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="70" /></a> 
+<a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="70" /></a> 
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="70px" width="60px"> </a> 
     <a href="https://twitter.com/MostafaNezar5" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="70" width ="60" /></a> <br>
 <a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="80" width="60" /></a> 
