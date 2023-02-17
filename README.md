@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m a student at : <a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Scu.</a> <br>
+- I’m a student at : <a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Scu</a> <br>
  <hr>
 <p>programmer &#128516; &#128525; </p>
 <hr>
