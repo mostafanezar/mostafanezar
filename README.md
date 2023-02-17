@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 - I’m a student at: ...<a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Suez Canal University.</a> <br>
 - How to reach me: ... <a href="https://mail.google.com/mail/mostafanezar19@gmail.com/" target="_blank">Mostafa Nezar</a> <br>
-- My Instagram: ... <a href="https://www.instagram.com/mostafa_nezar_21">Mostafa Nezar </a> <br>
  <hr>
 <p>programmer &#128516; &#128525; </p>
 <hr>
@@ -29,7 +28,7 @@ Social links:<br>
 <a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a> <br>
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="30px" width="30px"> </a> <br>
 <a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="80" width="60" /></a> 
-<a href="https://twitter.com/mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://twitter.com/mitul_shahriyar" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/mostafa-nezar-2a1458257?trk=contact-info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="80" width="60" /></a>
 <br>
     👉 Programming languages <br>
