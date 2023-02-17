@@ -52,10 +52,6 @@ Here are some ideas to get you started:
  <a href="#"><img alt="Net Beans" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
 </p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=mostafanezar&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanezar" /> </p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science;Junior+Programmer;"></a>
-</p>
-
 
 
 
