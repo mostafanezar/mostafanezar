@@ -49,7 +49,6 @@ Here are some ideas to get you started:
  <a href="#"><img alt="Net Beans" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
  
 </p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-    src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%000000&size=25&true&width=600&height=100&lines=Programmer;"></a>
-</p>
+
+
 
