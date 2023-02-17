@@ -20,9 +20,9 @@ Here are some ideas to get you started:
  <hr>
 <p>programmer &#128516; &#128525; </p>
 <hr>
-Social links:<br>
+- Social links:<br>
 <!-- how to reach me -->
-<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to reach me</p>
+<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> \</p>
 </a> 
 <a href="https://www.facebook.com/mostafanazar.mostafa.9?mibextid=LQQJ4d" target="blank"><img src="Facebook_f_logo_(2021).svg.png" alt="" height="70" width="60" /></a> 
 <a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="70" width="60" /></a> 
