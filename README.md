@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Junior Programmer%20;web%20is%20my%20passion;&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Junior Programmer%20;Web%20Is%20My%20Passion&#128516;&#128525; ;&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
 </p>
