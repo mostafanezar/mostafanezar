@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- studying at: <a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">Faculty of Computers & Informatics at Scu</a> <br>
+- studying at: <a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">fci.scu</a> <br>
  <hr>
 <p>Junior programmer &#128516;&#128525; </p>
 <hr>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/w3css/defaulT.asp" target="_blank" rel="noreferrer"> <img src="CSS3_logo_and_wordmark.svg.png" alt="css" height="65" width="40" > </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="60"/> </a></a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="65" height="55"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
    <br>
     👉 IDEs
 <p>
