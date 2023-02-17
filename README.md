@@ -47,6 +47,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a><br>
   &emsp;
  <a href="#"><img alt="Net Beans" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
  
 </p>
 
