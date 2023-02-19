@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="60"/> </a></a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="65" height="55"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git-bash.svg" alt="android" width="65" height="55"/> </a>
       <a href="https://flutter.dev/" target="blank"><img src="git-bash.svg" alt="" height="70" width="120" /></a> 
-      <a href="https://www.codeblocks.org/"><img src="6e19fee6b47b36ca613f.png" alt="" height="70px" width="60px"> </a> 
+      
    <br>
     👉 IDEs
 <p>
