@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git-bash.svg" alt="android" width="65" height="55"/> </a>
       <a href="https://flutter.dev/" target="blank"><img src="git-bash.svg" alt="" height="70" width="120" /></a> 
-      <a href="https://www.codeblocks.org/"><img src="kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" alt="" height="70px" width="60px"> </a> 
+      <a href="https://www.codeblocks.org/"><img src="6e19fee6b47b36ca613f.png" alt="" height="70px" width="60px"> </a> 
    <br>
     👉 IDEs
 <p>
