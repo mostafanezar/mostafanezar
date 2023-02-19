@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="65" height="55"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
       <a href="https://flutter.dev/" target="blank"><img src="git-bash.svg" alt="" height="70" width="120" /></a> 
-        <a href="https://flutter.dev/" target="blank"><img src="6e19fee6b47b36ca613f.png" alt="" height="70" width="120" /></a> 
+        <a href="https://flutter.dev/" target="blank"><img src="6e19fee6b47b36ca613f.png" alt="" height="70" width="60" /></a> 
        
       
    <br>
