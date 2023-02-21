@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/MostafaNezar5" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="70" width ="60" /></a> <br>
 <a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="80" width="60" /></a> 
 <a href="https://www.linkedin.com/in/mostafa-nezar-2a1458257?trk=contact-info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="80" width="60" /></a>
-<hr>
+<!-- <hr>
 <a href="https://twitter.com/mostafanezar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafanezar5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafa nezar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa nezar" height="30" width="40" /></a>
 <a href="https://fb.com/mostafa nezar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa nezar" height="30" width="40" /></a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/mostafa_nezar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mostafa_nezar" height="30" width="40" /></a>
 </p>
 
-<hr>
+<hr> -->
 <br>
     👉 Programming languages And Structural Programming And Tools:
     <br>
