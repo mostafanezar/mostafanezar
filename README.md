@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 #
 - <p>Junior programmer &#128516;&#128525; </p> <br>
 #
-
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">Social links: </p>
 </a>
 <a href="https://www.facebook.com/mostafanazar.mostafa.9?mibextid=LQQJ4d" target="blank"><img src="Facebook_f_logo_(2021).svg.png" alt="" height="40" width="40" /></a>
