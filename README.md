@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com///mostafa_nezar_21" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="40" width="40" /></a> 
 <a href="https://www.instagram.com/mostafa_nezar_21"><img src="Instagram_logo_2022.svg.png" alt="" height="40px" width="40px"> </a> 
     <a href="https://twitter.com/MostafaNezar5" target="blank"><img src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="40" width ="40" /></a> <br>
-<a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="80" width="60" /></a> 
-<a href="https://www.linkedin.com/in/mostafa-nezar-2a1458257?trk=contact-info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="80" width="60" /></a>
+<a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/mostafa-nezar-2a1458257?trk=contact-info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="40" width="40" /></a>
 
 #
 
