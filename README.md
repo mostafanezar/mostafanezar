@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - studying at: <a href="https://www.facebook.com/fci.suezuniversity?mibextid=LQQJ4d" target ="_blank">fci.scu</a> <br>
 #
 <p>Junior programmer &#128516;&#128525; </p> 
+#
 <!-- how to reach me -->
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">Social links: </p>
 </a>
