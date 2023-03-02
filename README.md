@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com/?lines=Junior Programmer%20;Web%20Is%20My%20Passion&#128516;&#128525; ;Shams Al-Zinaty &#10084;;&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50%> 
+<img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50%> 
 
 
 
