@@ -60,3 +60,38 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com/?lines=Junior Programmer%20;Web%20Is%20My%20Passion&#128516;&#128525; ;Shams Al-Zinaty &#10084;;&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50%> 
+
+
+
+Stats
+
+<details><summary><h3>Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafanezar&theme=tokyonight_duo" alt="mostafa" /></p>
+
+</details>
+  
+<details><summary><h3>GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafanezar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="nezar" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>Recent GitHub Activity</h3></summary>
+
+----
+	
+[![mostafanezar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/mostafanezar/github-readme-activity-graph)
+
+ 
+</details>
