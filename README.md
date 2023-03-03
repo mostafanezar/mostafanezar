@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/mostafanezar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  #
 <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">Social links: </p>
-#
+-#
 <a href="https://www.facebook.com/mostafanazar.mostafa.9?mibextid=LQQJ4d" target="blank"><img src="Facebook_f_logo_(2021).svg.png" alt="" height="40" width="40" /></a>
  <a href="https://myaccount.microsoft.com/مصطفى نزار مصطفى غريب البنا" target="_blank"><img src="Microsoft_Office_Teams_(2018–present).svg.png" height="40" width="40"></a>
  <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj4jOTjk739AhWUkGgJHYycCjwYABAAGgJ3Zg&ohost=www.google.com&cid=CAESauD2u2-CFms_ki5OtbykOHVfqfSBLu_LuYHQzpaAZvNyYOW7cGXtivrE3c8tbwVDQV54PH6zhGp0lwCrPnuVO0tavr2WojuMSqIfKfHHG81SWpqiVXGkJisiCP3HaDY2-dO4vPC_NtEwReA&sig=AOD64_3ZjlsuAAA7-qCJCxQmmyQOmu8fvw&q&adurl&ved=2ahUKEwi57N7jk739AhUUQaQEHR2iAXkQ0Qx6BAgJEAE/31ln7fuh7uoiwnn2i7txjditniby" target="blank"><img src="unnamed.png" alt="" height="40" width="40" /></a>
