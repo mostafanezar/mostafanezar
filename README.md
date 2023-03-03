@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafanezar&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanezar" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafanezar&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanezar" /> </p>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=Junior Programmer%20;Web%20Is%20My%20Passion&#128516;&#128525; ;Shams Al-Zinaty &#10084;;&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -109,3 +108,4 @@ Stats
  
 </details>
 <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafanezar&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanezar" /> </p>
