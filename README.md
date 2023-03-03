@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/Mostafa_Nezar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not found" height="40" width="40" /></a> 
 <a href="https://www.linkedin.com/in/mostafa-nezar-2a1458257?trk=contact-info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="40" width="40" /></a>
 
-#
+<br>
 
 - languages And Tools:
 #
