@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Junior programmer &#128516;&#128525;<br>
 - <a href="https://github.com/mostafanezar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  #
-<p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">Social links: </p>
+- <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px">Social links: </p>
 </a>
 <a href="https://www.facebook.com/mostafanazar.mostafa.9?mibextid=LQQJ4d" target="blank"><img src="Facebook_f_logo_(2021).svg.png" alt="" height="40" width="40" /></a>
  <a href="https://myaccount.microsoft.com/مصطفى نزار مصطفى غريب البنا" target="_blank"><img src="Microsoft_Office_Teams_(2018–present).svg.png" height="40" width="40"></a>
