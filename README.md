@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 </p>   <br>
 
  - My IDEs
+ #
 <p>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
   &emsp;
  <a href="#"><img alt="Net Beans" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
 </p>
+<hr>
 
 
 <p align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=60%> </p>
