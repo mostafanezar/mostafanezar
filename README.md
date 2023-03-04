@@ -62,8 +62,6 @@ Here are some ideas to get you started:
   &emsp;
  <a href="#"><img alt="Net Beans" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" height="60" width="60"/></a>
 </p>
-<hr>
-
 
 <p align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=60%> </p>
 
